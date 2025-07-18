@@ -1,0 +1,5 @@
+# Digital Human SDK - Git Ignore File
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+assets/
