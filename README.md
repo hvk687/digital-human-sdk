@@ -576,4 +576,5 @@ if not config.validate():
 
 如有问题或建议，请通过以下方式联系：
 - GitHub Issues
-- Email: team@digitalhuman.com
+- Email: hvk687@gmail.com
+- Wechat: 13605197864
