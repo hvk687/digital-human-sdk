@@ -205,8 +205,8 @@ def on_llm_response_chunk(self, task: Task, text_chunk: str):
 ### 基础要求
 
 - Python 3.10+
-- CUDA支持的GPU（推荐）
-- 8GB+ RAM
+- CUDA支持的GPU（MUST）, works fine on 4060ti 16G(include cosyvoice2, llm)
+- 24GB+ RAM
 
 ### 依赖包
 
@@ -436,8 +436,8 @@ pip install -r requirements.txt
 
 ### 2. 准备资源文件
 
-确保以下目录结构存在：
-
+Download From realease: https://github.com/hvk687/digital-human-sdk/releases/tag/v1.0.0
+uzip it as below:
 ```
 digital_human_sdk/assets/
 ├── weight/
