@@ -21,7 +21,7 @@
 
 ```bash
 # 1. 克隆项目
-git clone <repository-url>
+git clone https://github.com/hvk687/digital-human-sdk.git
 cd digital_human_sdk
 
 # 2. 安装
